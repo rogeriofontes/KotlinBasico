@@ -7,7 +7,7 @@ fun main(args: Array<String>) {
     str1?.length
 
     var str2: String? = null
-    str2!!.length
+//    str2!!.length
 
     val nome1:String? = null
     nome1.let {
@@ -20,11 +20,11 @@ fun main(args: Array<String>) {
     }
 
     lateinit var nome2: Any
-        println(nome2)
+      //  println(nome2)
         // lateinit property name has not been initialized
 
-    lateinit var nome3: Any
-        nome3 = "Joao"
-        println(nome3)
+    var nome3: Any
+    //    nome3 = "Joao"
+      //  println(nome3)
         // name
 }

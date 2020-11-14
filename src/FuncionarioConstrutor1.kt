@@ -1,4 +1,4 @@
-fun main() {
+/*fun main() {
     println("Olã")
 
     val funcionarioRogerio = Funcionario2("Rogerio Fontes", 12345, "Java", 1000.00)
@@ -20,7 +20,7 @@ fun main() {
     println("Bonus Seu bonus é ${calculaBonus}")
 }
 
-class Funcionario2(var nome: String, var matricula: Int, var tecnologia: String, var salario: Double){
+open class Funcionario2(var nome: String, var matricula: Int, var tecnologia: String, var salario: Double){
 
     val firstProperty = "First property: $nome".also(::println)
 
@@ -37,4 +37,4 @@ class Funcionario2(var nome: String, var matricula: Int, var tecnologia: String,
     fun calculaBonus(bonus: Double): Double {
         return this.salario + bonus;
     }
-}
+}*/

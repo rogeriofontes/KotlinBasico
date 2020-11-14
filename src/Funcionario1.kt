@@ -1,4 +1,4 @@
-fun main() {
+/*fun main() {
     println("Olã")
 
     val funcionarioRogerio = Funcionario()
@@ -32,7 +32,7 @@ fun main() {
     println("Bonus Seu bonus é ${calculaBonus}")
 }
 
-class Funcionario {
+open class Funcionario {
     var nome = ""
     var matricula: Int = 0;
     var tecnologia = ""
@@ -43,4 +43,4 @@ class Funcionario {
     fun calculaBonus(bonus: Double): Double {
        return this.salario + bonus;
     }
-}
+}*/

@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+/*fun main(args: Array<String>) {
     when(condicao) {
         cond1 -> println("cond1")
         cond1 -> println("cond1")
@@ -7,4 +7,4 @@ fun main(args: Array<String>) {
             println("isso")
         }
     }
-}
+} */
