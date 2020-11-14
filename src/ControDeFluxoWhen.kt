@@ -1,15 +1,10 @@
 fun main(args: Array<String>) {
-    var tipoPessao: Int = 2
-
-    val result = when(tipoPessao) {
-        1 -> "Nome: Joao - Cpf: 2333"
-        2 -> "Razão social: Bela torm - Cnpj: 43443"
+    when(condicao) {
+        cond1 -> println("cond1")
+        cond1 -> println("cond1")
         else -> {
-            "Desconhecido"
+            println("isso ou")
+            println("isso")
         }
     }
-
-    println(result)
-
-
 }
