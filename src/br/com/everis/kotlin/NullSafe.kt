@@ -1,3 +1,5 @@
+package br.com.everis.kotlin
+
 fun main(args: Array<String>) {
 
     var str: String? = null //-> temos que forca o nulo

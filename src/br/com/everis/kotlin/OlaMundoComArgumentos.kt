@@ -1,3 +1,5 @@
+package br.com.everis.kotlin
+
 fun main(args: Array<String>){
     print("Ola mundo" + "com total de" + args.size + " argumentos")
     print("\nargumento 1" + args[0])

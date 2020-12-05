@@ -1,3 +1,5 @@
+package br.com.everis.kotlin
+
 fun main() {
     val funcionarioRogerio = Funcionario(matricula = 123456, salario = 1000.00, tecnologia = "Kotlin", nome = "Rogerio Fontes")
    // funcionarioRogerio.nome = "Rogerio Fontes"

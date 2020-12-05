@@ -1,3 +1,5 @@
+package br.com.everis.kotlin
+
 fun main(args: Array<String>) {
 
     //while simples

@@ -1,7 +1,7 @@
-/*fun main() {
+package br.com.everis.kotlin/*fun br.com.everis.kotlin.main() {
     println("Olã")
 
-    val funcionarioRogerio = Funcionario()
+    val funcionarioRogerio = br.com.everis.kotlin.Funcionario()
     funcionarioRogerio.nome = "Rogerio Fontes"
     funcionarioRogerio.matricula = 12345
     funcionarioRogerio.tecnologia = "Java"
@@ -11,7 +11,7 @@
 
     println("Nome ${funcionarioRogerio.nome}, Matricula: ${funcionarioRogerio.matricula}, Tecnolia: ${funcionarioRogerio.tecnologia}")
 
-    val funcionarioJoao = Funcionario()
+    val funcionarioJoao = br.com.everis.kotlin.Funcionario()
     funcionarioJoao.nome = "Rogerio Fontes"
     funcionarioJoao.matricula = 12345
     funcionarioJoao.tecnologia = "Java"
@@ -21,7 +21,7 @@
 
     println("Nome ${funcionarioJoao.nome}, Matricula: ${funcionarioJoao.matricula}, Tecnolia: ${funcionarioJoao.tecnologia}")
 
-    val funcionarioJoaoMaria = Funcionario()
+    val funcionarioJoaoMaria = br.com.everis.kotlin.Funcionario()
     funcionarioJoaoMaria.nome = "Rogerio Fontes"
     funcionarioJoaoMaria.matricula = 12345
     funcionarioJoaoMaria.tecnologia = "Java"
@@ -32,7 +32,7 @@
     println("Bonus Seu bonus é ${calculaBonus}")
 }
 
-open class Funcionario {
+open class br.com.everis.kotlin.Funcionario {
     var nome = ""
     var matricula: Int = 0;
     var tecnologia = ""

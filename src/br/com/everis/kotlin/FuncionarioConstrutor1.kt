@@ -1,4 +1,4 @@
-/*fun main() {
+package br.com.everis.kotlin/*fun br.com.everis.kotlin.main() {
     println("Olã")
 
     val funcionarioRogerio = Funcionario2("Rogerio Fontes", 12345, "Java", 1000.00)
